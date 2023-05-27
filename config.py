@@ -1,6 +1,6 @@
 from telebot import types
 
-TOKEN = '6126298337:AAGwS0gCeDYA32MKtupNRacdJ8wAYfxW4jw'
+TOKEN = ''
 
 #Reply Button 
 MainBut0 = types.KeyboardButton('Регистрация')
