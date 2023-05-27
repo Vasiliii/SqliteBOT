@@ -11,6 +11,7 @@ Now I want to add a full-fledged admin panel.
 2.Add more tables and establish dependencies between them.
 
 #SETUP
+
 So to install this bot on your computer, you will need to copy my repository to your PC. 
 To do this, you can use the gh repo clone Vasiliii/SqliteBOT command if you have github installed. 
 Well, or you can copy my code from files to your project (if you are so desperate).
@@ -33,6 +34,7 @@ After all the above manipulations, you just have to run main.py file and go to y
 2.Добавить ещё  таблиц и установить между ними зависимости.
 
 #УСТАНОВКА
+
 Итак для установки этого бота к себе на компьютер вам потребуется скопировать мой репозиторий себе на  ПК. 
 Для этого вы можете воспользоваться командой gh repo clone Vasiliii/SqliteBOT если у вас установлен github. 
 Ну или вы можете копировать мой код из файлов себе в проект (если вы уж настолько отчаянный).
