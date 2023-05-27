@@ -4,8 +4,10 @@ This bot interacts with the Sqlite3 library.
 I have moved the buttons and the token to a separate file config.py (they say it's more correct or even better to keep tokens and stuff in config,
 and keep a separate file under the buttons, but I thought it made no sense for such a small bot to bother so much).
 In the future I plan to refine the bot: 
-1. I have already made an additional admin rights check field. 
+
+1.I have already made an additional admin rights check field. 
 Now I want to add a full-fledged admin panel. 
+
 2.Add more tables and establish dependencies between them.
 
 #SETUP
